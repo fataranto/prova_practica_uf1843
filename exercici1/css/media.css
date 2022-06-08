@@ -13,8 +13,17 @@
     }
 }
 
-
-
-
+@media (max-width: 375px) {
+    /* your code should be written here  */
 
 /** Exercici 8 */
+body {
+background: none;
+}
+
+}
+
+
+
+
+
