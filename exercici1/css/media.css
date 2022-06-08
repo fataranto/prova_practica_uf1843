@@ -2,8 +2,19 @@
     /* your code should be written here  */
     /* Exercici 5 */
 
+    .container {
+        display: block;
+    }
+
     /* Exercici 6*/
+    .grid-content {
+        display: block;
+        padding: 0 50px;
+    }
 }
 
-/** Exercici 8 */
 
+
+
+
+/** Exercici 8 */
